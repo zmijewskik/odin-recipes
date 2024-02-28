@@ -1,0 +1,26 @@
+/* color palette https://coolors.co/edd4b2-d0a98f-4d243d-cac2b5-ecdcc9 */
+
+body {
+    background-color: #edd4b2;
+    font-family: 'Times New Roman', serif;
+    
+}
+
+.center {
+    text-align: center;
+}
+
+.form-button {
+    font-size: 24px;
+}
+
+.recipes-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 24px;
+}
+
+.steps li{
+    font-weight: bold;
+}
